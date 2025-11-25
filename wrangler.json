@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "seniors",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8ffad05c-2c93-40da-ab33-5fe4036f96a4",
+      "database_name": "subjects"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
